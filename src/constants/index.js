@@ -78,3 +78,10 @@ export const CONTACT = {
   phoneNo: "+12 4555 666 00 ",
   email: "me@example.com",
 };
+
+export const SOCIAL_LINKS = [
+  "https://www.linkedin.com/in/aman-yadav2003",
+  "https://github.com/AmanYadav1419",
+  "https://instagram.com/aman_adav1419?utm_source=qr&igshid=MzNINGNkZWQ4Mg%3D%3D",
+  "https://twitter.com/Aman_Yadav1419?t=DezgZO1fFZWSy1d-uMspHQ&s=09",
+];
