@@ -51,6 +51,22 @@ const Projects = () => {
                 })}
               </motion.div>
 
+              <motion.div
+                whileInView={{ opacity: 1, x: 0 }}
+                initial={{ opacity: 0, x: 100 }}
+                transition={{ duration: 1 }}
+              >
+                {project.LiveDemo && (
+                  <a
+                    href={project.LiveDemo}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-cyan-900"
+                  >
+                    Live Demo
+                  </a>
+                )}
+              </motion.div>
             </div>
           );
         })}

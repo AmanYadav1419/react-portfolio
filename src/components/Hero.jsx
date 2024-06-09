@@ -1,4 +1,4 @@
-import { HERO_CONTENT } from "../constants";
+import { HERO_CONTENT  } from "../constants";
 import profilePic from "../assets/kevinRushProfile.png";
 import { motion } from "framer-motion";
 
