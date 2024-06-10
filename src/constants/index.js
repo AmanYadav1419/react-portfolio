@@ -45,38 +45,39 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-    LiveDemo : "https://e-commerce-amanabhishek.vercel.app/"
+    LiveDemo: "https://e-commerce-amanabhishek.vercel.app/",
   },
   {
     title: "COSA-Website",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-    LiveDemo : "https://cosagcoerc.org"
+      "A Computer Science Student Organization Website for Enginneering Collage",
+    technologies: ["HTML", "CSS", "Javascript", "Bootstrap", "EmailJs"],
+    LiveDemo: "https://cosagcoerc.org",
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    LiveDemo : "https://amanyadav-portfolio.netlify.app"
+    technologies: ["HTML", "CSS", "Javascript", "GSAP", "Framer-Motion"],
+    LiveDemo: "https://amanyadav-portfolio.netlify.app",
   },
-  // {
-  //   title: "Blogging Platform",
-  //   image: project4,
-  //   description:
-  //     "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-  //   technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-  //   LiveDemo : ""
-  // },
+  {
+    title: "Krishna Website",
+    image: project4,
+    description:
+      "A Website to Display Cool animations and adding more info. Work in Progress.. Open it into PC or laptop",
+    technologies: ["HTML", "CSS", "Javascript", "GSAP"],
+    LiveDemo: "https://mahabharat-krishna-website.netlify.app/",
+  },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address:
+    "Flat no 11 C wing Flora Town, Ambad, Nashik, 422010, Maharahashtra ",
+  phoneNo: "+91 7709665497 ",
+  email: "amanyadav16544@gmail.com",
 };
 
 export const SOCIAL_LINKS = [
