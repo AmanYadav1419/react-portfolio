@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <nav className="mb-20 flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center hover:cursor-pointer hover:text-cyan-900">
-        <img className="mx-2 w-10" src={logo} alt="" />
+        <h3 className="mx-2 w-10 text-3xl">AY</h3>
       </div>
       {/* all social icons */}
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">

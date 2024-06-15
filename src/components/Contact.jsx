@@ -32,10 +32,16 @@ const Contact = () => {
           {CONTACT.phoneNo}
         </motion.p>
 
-        <a href="#" className="border-b">
+        <motion.div
+          whileInView={{ opacity: 1, x: 0 }}
+          initial={{ opacity: 0, x: -100 }}
+          transition={{ duration: 1 }}
+          className="border-b"
+        >
+          <a href="#">
           {CONTACT.email}
-        </a>
-        
+          </a>
+        </motion.div>
       </div>
     </div>
   );
