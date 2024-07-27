@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Combining technical expertise with a passion for innovation to create impactful web applications. and Enthusiastic about collaborating on projects and contributing to the developer community`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a results-oriented Full-Stack Developer with a knack for turning ideas into reality. My journey into the world of technology has been fueled by a desire to create user-centric solutions. In addition to my technical skills, I am a skilled video editor and have successfully completed numerous video projects. I have also had the opportunity to participate in hackathons, such as Sunhacks, where I collaborated with talented individuals to develop innovative solutions. I am constantly seeking new challenges and opportunities to expand my skill set`;
 
 export const EXPERIENCES = [
   {
