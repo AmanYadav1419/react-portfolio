@@ -9,18 +9,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "MAY 2023 - JUNE 2023",
-    role: "Web Developer - Internship",
-    company: "TechnoHacks EduTech",
-    description: `Designed and developed user interfaces for web applications using HTML and CSS. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Javascript",],
-  },
-  {
-    year: "MAY 2023 - JULY 2023",
-    role: "AWS Cloud Virtual- Internship",
-    company: "AWS Academy",
-    description: `Learned Latest development Technologies and Tools for AWS`,
-    technologies: ["AWS", "S3", "EC2", "DyanmoDB"],
+    year: "JANUARY 2024 - MARCH 2024",
+    role: "AI-ML Virtual Internship",
+    company: "Google for Developers",
+    description: `Learned Latest development Technologies and Tools for AI-Ml `,
+    technologies: ["Python", "Matplotlib", "Sci-Py"],
   },
   {
     year: "DECEMBER 2023 - JANUARY 2024",
@@ -30,15 +23,30 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "React.js", "Bootstrap", "CSS3"],
   },
   {
-    year: "JANUARY 2024 - MARCH 2024",
-    role: "AI-ML Virtual Internship",
-    company: "Google for Developers",
-    description: `Learned Latest development Technologies and Tools for AI-Ml `,
-    technologies: ["Python", "Matplotlib", "Sci-Py"],
+    year: "MAY 2023 - JULY 2023",
+    role: "AWS Cloud Virtual- Internship",
+    company: "AWS Academy",
+    description: `Learned Latest development Technologies and Tools for AWS`,
+    technologies: ["AWS", "S3", "EC2", "DyanmoDB"],
   },
+  {
+    year: "MAY 2023 - JUNE 2023",
+    role: "Web Developer - Internship",
+    company: "TechnoHacks EduTech",
+    description: `Designed and developed user interfaces for web applications using HTML and CSS. Implemented responsive designs and optimized frontend performance.`,
+    technologies: ["HTML", "CSS", "Javascript",],
+  }
 ];
 
 export const PROJECTS = [
+  {
+    title: "Refokus clone Project",
+    image: project1,
+    description:
+      "A website specially focus on its morden animations and morden UI. ",
+    technologies: ["HTML", "CSS", "React", "TailwindCSS", "Framer-motion"],
+    LiveDemo: "https://refocus-clone-aman.vercel.app/",
+  },
   {
     title: "E-Commerce Website",
     image: project1,
