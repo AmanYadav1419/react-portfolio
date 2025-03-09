@@ -9,6 +9,13 @@ export const ABOUT_TEXT = `I am a results-oriented Full-Stack Developer with a k
 
 export const EXPERIENCES = [
   {
+    year: "SEPTEMBER 2024 - JANUARY 2025",
+    role: "ABB Project Developer/Intern",
+    company: "ABB India Ltd",
+    description: `Designed and implemented software tools that are now actively implemented and will used in ABB India Ltd. `,
+    technologies: ["Python", "OpenCV", "Power Apps", "Power Pages", "SharePoint"],
+  },
+  {
     year: "JANUARY 2024 - MARCH 2024",
     role: "AI-ML Virtual Internship",
     company: "Google for Developers",
@@ -20,7 +27,7 @@ export const EXPERIENCES = [
     role: "Frontend Developer - Internship",
     company: "NeelSindhu Industry.",
     description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Worked closely with backend developers to integrate frontend components with Node.js APIs. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Bootstrap", "CSS3"],
+    technologies: ["Javascript", "ReactJS", "Bootstrap", "CSS3", "HTML5"],
   },
   {
     year: "MAY 2023 - JULY 2023",
@@ -34,17 +41,33 @@ export const EXPERIENCES = [
     role: "Web Developer - Internship",
     company: "TechnoHacks EduTech",
     description: `Designed and developed user interfaces for web applications using HTML and CSS. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Javascript",],
+    technologies: ["HTML", "CSS", "Javascript"],
   }
 ];
 
 export const PROJECTS = [
   {
-    title: "Refokus clone Project",
+    title: "Decentralized Music Sharing Platform",
     image: project1,
     description:
+      "Designed to empower ground-level artists by leveraging blockchain technology.",
+    technologies: ["HTML", "CSS", "ReactJS", "Javascript", "Solidity", "Metamask", "IPFS", "TailwindCSS"],
+    LiveDemo: "",
+  },
+  {
+    title: "Decentralized Music Sharing Platform",
+    image: project2,
+    description:
+      "Designed to empower ground-level artists by leveraging blockchain technology.",
+    technologies: ["HTML", "CSS", "ReactJS/NextJS", "Javascript", "TailwindCSS", "PostgreSQL","Drizzle ORM", "NodeJS"],
+    LiveDemo: "",
+  },
+  {
+    title: "Refokus clone Project",
+    image: project3,
+    description:
       "A website specially focus on its morden animations and morden UI. ",
-    technologies: ["HTML", "CSS", "React", "TailwindCSS", "Framer-motion"],
+    technologies: ["HTML", "CSS", "Javascript", "ReactJS", "TailwindCSS", "Framer-motion"],
     LiveDemo: "https://refocus-clone-aman.vercel.app/",
   },
   {
@@ -52,7 +75,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["HTML", "CSS", "Javascript", "React", "Node.js", "MongoDB"],
     LiveDemo: "https://e-commerce-amanabhishek.vercel.app/",
   },
   {
@@ -85,7 +108,7 @@ export const CONTACT = {
   address:
     "Flat no 11 C wing Flora Town, Ambad, Nashik, 422010, Maharahashtra ",
   phoneNo: "+91 7709665497 ",
-  email: "amanyadav16544@gmail.com",
+  email: "engineeramanyadav@gmail.com",
 };
 
 export const SOCIAL_LINKS = [
