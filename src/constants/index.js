@@ -52,15 +52,15 @@ export const PROJECTS = [
     description:
       "Designed to empower ground-level artists by leveraging blockchain technology.",
     technologies: ["HTML", "CSS", "ReactJS", "Javascript", "Solidity", "Metamask", "IPFS", "TailwindCSS"],
-    LiveDemo: "",
+    LiveDemo: "https://github.com/AmanYadav1419/EchoChain",
   },
   {
-    title: "Decentralized Music Sharing Platform",
+    title: "AI Mock Interview Platform",
     image: project2,
     description:
-      "Designed to empower ground-level artists by leveraging blockchain technology.",
-    technologies: ["HTML", "CSS", "ReactJS/NextJS", "Javascript", "TailwindCSS", "PostgreSQL","Drizzle ORM", "NodeJS"],
-    LiveDemo: "",
+      "Built AI powered mock interview platform for students to practice interviews.",
+    technologies: ["ReactJS/NextJS", "Javascript", "TailwindCSS", "PostgreSQL","Drizzle ORM", "NodeJS"],
+    LiveDemo: "https://github.com/AmanYadav1419/Ai-Mock-Interview-App",
   },
   {
     title: "Refokus clone Project",
