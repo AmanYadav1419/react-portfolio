@@ -69,7 +69,7 @@ export const PROJECTS = [
       "Hardhat",
       "Ethers.js",
     ],
-    LiveDemo: "https://echo-chain-nextjs-m22x.vercel.app/",
+    LiveDemo: "https://echo-chain-next-js-m22x.vercel.app",
   },
   {
     title: "AI Mock Interview Platform",
