@@ -13,7 +13,13 @@ export const EXPERIENCES = [
     role: "ABB Project Developer/Intern",
     company: "ABB India Ltd",
     description: `Designed and implemented software tools that are now actively implemented and will used in ABB India Ltd. `,
-    technologies: ["Python", "OpenCV", "Power Apps", "Power Pages", "SharePoint"],
+    technologies: [
+      "Python",
+      "OpenCV",
+      "Power Apps",
+      "Power Pages",
+      "SharePoint",
+    ],
   },
   {
     year: "JANUARY 2024 - MARCH 2024",
@@ -42,7 +48,7 @@ export const EXPERIENCES = [
     company: "TechnoHacks EduTech",
     description: `Designed and developed user interfaces for web applications using HTML and CSS. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["HTML", "CSS", "Javascript"],
-  }
+  },
 ];
 
 export const PROJECTS = [
@@ -51,23 +57,48 @@ export const PROJECTS = [
     image: project1,
     description:
       "Designed to empower ground-level artists by leveraging blockchain technology.",
-    technologies: ["HTML", "CSS", "ReactJS", "Javascript", "Solidity", "Metamask", "IPFS", "TailwindCSS"],
-    LiveDemo: "https://github.com/AmanYadav1419/EchoChain",
+    technologies: [
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "Javascript",
+      "TailwindCSS",
+      "Solidity",
+      "Metamask",
+      "IPFS",
+      "Hardhat",
+      "Ethers.js",
+    ],
+    LiveDemo: "https://echo-chain-nextjs-m22x.vercel.app/",
   },
   {
     title: "AI Mock Interview Platform",
     image: project2,
     description:
       "Built AI powered mock interview platform for students to practice interviews.",
-    technologies: ["ReactJS/NextJS", "Javascript", "TailwindCSS", "PostgreSQL","Drizzle ORM", "NodeJS"],
-    LiveDemo: "https://github.com/AmanYadav1419/Ai-Mock-Interview-App",
+    technologies: [
+      "ReactJS/NextJS",
+      "Javascript",
+      "TailwindCSS",
+      "PostgreSQL",
+      "Drizzle ORM",
+      "NodeJS",
+    ],
+    LiveDemo: "https://ai-interviewprep-aman.vercel.app",
   },
   {
     title: "Refokus clone Project",
     image: project3,
     description:
       "A website specially focus on its morden animations and morden UI. ",
-    technologies: ["HTML", "CSS", "Javascript", "ReactJS", "TailwindCSS", "Framer-motion"],
+    technologies: [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "ReactJS",
+      "TailwindCSS",
+      "Framer-motion",
+    ],
     LiveDemo: "https://refocus-clone-aman.vercel.app/",
   },
   {
