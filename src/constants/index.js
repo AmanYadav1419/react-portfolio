@@ -69,7 +69,7 @@ export const PROJECTS = [
       "Hardhat",
       "Ethers.js",
     ],
-    LiveDemo: "https://echo-chain-next-js-m22x.vercel.app",
+    LiveDemo: "https://echochain-landinpage-react.vercel.app/",
   },
   {
     title: "AI Mock Interview Platform",
@@ -137,7 +137,7 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address:
-    "Flat no 11 C wing Flora Town, Ambad, Nashik, 422010, Maharahashtra ",
+    "Ambad, Nashik, 422010, Maharahashtra ",
   phoneNo: "+91 7709665497 ",
   email: "engineeramanyadav@gmail.com",
 };
