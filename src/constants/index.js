@@ -53,6 +53,21 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "SPYLT-awwards-Website",
+    image: project2,
+    description:
+      "An awwards level animation website to showcase my frontend skills",
+    technologies: [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "ReactJS",
+      "GSAP",
+      "TailwindCSS",
+    ],
+    LiveDemo: "https://awwards-gsap-website-kappa.vercel.app/",
+  },
+  {
     title: "Decentralized Music Sharing Platform",
     image: project1,
     description:
